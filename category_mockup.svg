@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="category_mockup.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4235">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4237" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4239" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4167">
+      <stop
+         style="stop-color:#800080;stop-opacity:1;"
+         offset="0"
+         id="stop4169" />
+      <stop
+         style="stop-color:#800080;stop-opacity:0;"
+         offset="1"
+         id="stop4171" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4167"
+       id="linearGradient4173"
+       x1="394.28571"
+       y1="-2244.7808"
+       x2="2385.7144"
+       y2="-227.6378"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235"
+       id="linearGradient4241"
+       x1="625.71429"
+       y1="-1576.2092"
+       x2="2357.1428"
+       y2="-1453.3521"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="179.10841"
+     inkscape:cy="2925.2084"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="1494"
+     inkscape:window-y="124"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient4173);fill-opacity:1;stroke:#000000;stroke-width:1.18137956;stroke-opacity:1"
+       id="rect3338-3"
+       width="765.53296"
+       height="1582.6758"
+       x="191.51924"
+       y="-2504.6899"
+       ry="59.144646" />
+    <rect
+       style="fill:url(#linearGradient4241);fill-opacity:1;stroke:#000000;stroke-width:1.13775826;stroke-opacity:1"
+       id="rect3338"
+       width="728.43372"
+       height="1542.7194"
+       x="208.64043"
+       y="-2484.7119"
+       ry="57.651474" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:0.7341665;stroke-opacity:1"
+       id="rect4183-8"
+       width="120.2631"
+       height="9.2197933"
+       x="2067.3323"
+       y="173.38583"
+       ry="4.6098967"
+       transform="matrix(0.00430891,-0.99999072,0.99988804,0.01496367,0,0)" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:0.7341665;stroke-opacity:1"
+       id="rect4183-8-7"
+       width="120.2631"
+       height="9.2197933"
+       x="2213.0598"
+       y="174.18657"
+       ry="4.6098967"
+       transform="matrix(0.00430891,-0.99999072,0.99988804,0.01496367,0,0)" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:0.7341665;stroke-opacity:1"
+       id="rect4183-8-3"
+       width="120.2631"
+       height="9.2197933"
+       x="700.09528"
+       y="-2520.1548"
+       ry="4.6098967"
+       transform="matrix(0.99995281,0.00971435,-0.0203684,0.99979254,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect4243"
+       width="677.14288"
+       height="1137.1429"
+       x="234.28571"
+       y="-2296.2092"
+       ry="0" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1"
+       id="path4280"
+       cx="579"
+       cy="-1046.1378"
+       rx="70"
+       ry="67.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:8.22788334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4284"
+       width="68.071815"
+       height="69.071815"
+       x="1114.1056"
+       y="-368.32681"
+       ry="12.672098"
+       transform="matrix(0.70924251,-0.70496458,0.70496458,0.70924251,0,0)" />
+    <g
+       id="g4410"
+       transform="translate(-594.21826,2138.8772)">
+      <g
+         id="g4397">
+        <g
+           id="g4385">
+          <g
+             id="g4374">
+            <g
+               id="g4364">
+              <g
+                 id="g4355">
+                <g
+                   id="g4347">
+                  <rect
+                     ry="0"
+                     y="-4440.2095"
+                     x="-58.571438"
+                     height="1137.1429"
+                     width="677.14288"
+                     id="rect4243-5"
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+                  <rect
+                     y="-4414.9873"
+                     x="-31.112698"
+                     height="692.96466"
+                     width="625.0824"
+                     id="rect4301"
+                     style="fill:#800080;fill-opacity:1;stroke:#ffffff;stroke-width:8.01200008;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                  <g
+                     id="g4339">
+                    <rect
+                       style="fill:#aa0000;fill-opacity:1;stroke:#ffffff;stroke-width:7.93265963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="rect4303"
+                       width="297.06418"
+                       height="364.94638"
+                       x="-31.152369"
+                       y="-3693.7783" />
+                  </g>
+                  <g
+                     id="g4342">
+                    <rect
+                       style="fill:#000080;fill-opacity:1;stroke:#ffffff;stroke-width:8.04986286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="rect4305"
+                       width="294.11853"
+                       height="364.82932"
+                       x="299.83218"
+                       y="-3693.7195" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4307"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4309"><rect
+             ry="0"
+             style="fill:#ffffff"
+             y="-3823.6377"
+             x="66"
+             height="84"
+             width="514"
+             id="rect4311" /></flowRegion><flowPara
+           style="font-size:70px"
+           id="flowPara4313">MSU PARTY</flowPara></flowRoot>      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4323"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4325"><rect
+             y="-3395.6377"
+             x="24"
+             height="60"
+             width="224"
+             id="rect4327" /></flowRegion><flowPara
+           style="font-size:50px;fill:#ffffff"
+           id="flowPara4329">FUNNY</flowPara></flowRoot>      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4331"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4333"><rect
+             y="-3397.6377"
+             x="396"
+             height="62"
+             width="188"
+             id="rect4335" /></flowRegion><flowPara
+           style="font-size:50px;fill:#ffffff"
+           id="flowPara4337">WTF</flowPara></flowRoot>    </g>
+  </g>
+</svg>

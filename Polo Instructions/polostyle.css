@@ -1,0 +1,191 @@
+
+
+body{
+    background-color: #7ab8f1;
+    font-family: 'Lato', sans-serif;
+    line-height: 2em;
+    color: #f6f6f6;
+    font-size: 25;
+    text-align: center;
+    -webkit-padding-start: 0px;
+}
+
+#introduction{
+    width: 85%;
+    margin-left:5%;
+    display:inline-block;
+    text-align: left;
+
+}
+
+h1{
+    color: #f6f6f6;
+    text-align: center;
+}
+
+h2{
+    color: #f6f6f6;
+    text-align: center;
+}
+
+#topdiv{
+    height: 10%;
+    width : 100%;
+    background-color: #3b93ce;
+}
+
+#drawingevents{
+    margin-top: 5%;
+    display:inline-block;
+    width : 100%;
+}
+
+#colors{
+    margin-top: 5%;
+    display:inline-block;
+    width : 100%;
+}
+
+#nonrepeating{
+    margin-top: 5%;
+    display:inline-block;
+    width : 100%;
+ }
+
+#repeating{
+    margin-top: 5%;
+    display:inline-block;
+    width : 100%;
+ }
+
+#deleting{
+    margin-top: 5%;
+    display:inline-block;
+    width : 100%;
+ }
+
+#copypaste{
+    margin-top: 5%;
+    display:inline-block;
+    width : 100%;
+ }
+
+#txtdrawingevents{
+    width : 55%;
+    float: right;
+    text-align: left;
+    margin-right: 5%;
+}
+
+#txtcolors{
+    width : 55%;
+    float: left;
+    text-align: left;
+    margin-left: 5%;
+}
+
+#txtnonrepeatingevents{
+    width : 55%;
+    float: right;
+    text-align: left;
+    margin-right : 5%;
+}
+
+#txtrepeatingevents{
+    width : 55%;
+    float: left;
+    text-align: left;
+    margin-left: 5%;
+}
+
+#txtdeletingevents{
+    width : 55%;
+    float: right;
+    text-align:left;
+    margin-right:5%;
+ }
+
+#txtcopypaste{
+    width : 55%;
+    float: left;
+    text-align:left;
+    margin-left:5%;
+ }
+
+#imgdrawingevents{
+    height: 70%;
+    width : 20%;
+    margin-left: 10%;
+    margin-top: 2.5%;
+    float:  left;
+}
+
+#imgcolors{
+    height: 70%;
+    width : 20%;
+    margin-right: 10%;
+    margin-top: 2.5%;
+    float:  right;
+}
+
+#imgnonrepeatingevents{
+    height: 70%;
+    width : 20%;
+    margin-left: 10%;
+    margin-top: 2.5%;
+    float:  left;
+}
+
+#imgrepeatingevents{
+    height: 70%;
+    width : 20%;
+    margin-right: 10%;
+    margin-top: 2.5%;
+    float: right;
+}
+
+#imgdeletingevents{
+    height: 70%;
+    width : 20%;
+    margin-left: 10%;
+    margin-top: 2.5%;
+    float:  left;
+}
+
+#imgcopypaste{
+    height: 70%;
+    width : 20%;
+    margin-right: 10%;
+    margin-top: 2.5%;
+    float:  right;
+}
+
+#content img {
+    height: 100%;
+    width: 100%;
+}
+
+#polologo{
+    float: left;
+    margin-top: 1.5%;
+    margin-left: 2%;
+}
+
+#bottombar{
+    margin-top:10%;
+    height:9%;
+    background-color: #3b93ce;
+}
+
+#topbottombar{
+    height:20%;
+    background-color: #2b73ae;
+    font-size:15;
+}
+
+span{
+    margin-top:3%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
